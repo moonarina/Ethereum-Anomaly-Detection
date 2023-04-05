@@ -1,5 +1,5 @@
 # Ethereum Suspicious Activity Identification
- Unveiling the Hidden Depths of Ethereum Transactions: A Machine Learning Approach to Fraud Detection
+ Unveiling the Hidden Depths of Ethereum Transactions: A Machine Learning Approach to Fraud Detection.
  
 Ethereum is a decentralized blockchain platform that enables the creation of smart contracts and decentralized applications (DApps). It has its own native cryptocurrency called Ether (ETH) that serves as the primary means of payment and settlement on the Ethereum network.
 
